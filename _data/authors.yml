@@ -1,20 +1,11 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+qu_xiaofeng:
+  name: Qu Xiaofeng
+  web: http://www.quxiaofeng.me
+  email: quxiaofeng@live.com
+  bio: "Just another Computing Ph.D.."
   avatar: bio-photo.jpg
-  twitter: extravagantman
+  twitter: quxiaofeng
   google:
-    plus: +BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: +CorneliusFiddlebone
+    plus: 
