@@ -1,18 +1,18 @@
 # Site wide configuration
 
 title: Raising Kids in Hong Kong
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale: zh-CN
-url: http://www.raisingkidsinhk.tk
+description: "A tutorial site for parents"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: zh_CN
+url: //www.raisingkidsinhk.tk
 
 # Jekyll configuration
 
 sass:
-    sass_dir: _sass
-    style: compressed
-permalink: /:categories/:title/
+  sass_dir: _sass
+  style: compressed
+permalink: /:title/
 markdown: kramdown
 highlighter: pygments
 gems:
@@ -22,14 +22,16 @@ gems:
 # Site owner
 owner:
   name: Qu Xiaofeng
+  web: http://www.quxiaofeng.me
   email: quxiaofeng@live.com
   twitter: quxiaofeng
+  bio: "Just another Computing Ph.D.."
+  avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
+    plus: 
     ad-client: 
     ad-slot: 
-  bio: A father of two Hong Kong Kids
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname: csxfqu
+  disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
