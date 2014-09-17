@@ -10,7 +10,7 @@ image:
   thumb:
 share: false
 ads: false
-permanlink: /about/
+permalink: /about/
 ---
 
 This is a work in progress.
