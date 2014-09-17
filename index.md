@@ -5,4 +5,8 @@ image:
   feature: wood-texture-1600x800.jpg
 ---
 
-{% include latest-posts-list.html %}
+<div class="tiles">
+{% for post in site.categories.articles %}
+    {% include latest-posts-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
