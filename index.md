@@ -7,6 +7,6 @@ image:
 
 <div class="tiles">
 {% for post in site.categories.articles %}
-    {% include latest-posts-grid.html %}
+    {% include posts-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->
