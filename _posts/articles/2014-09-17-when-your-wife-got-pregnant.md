@@ -1,14 +1,17 @@
 ---
-layout: post
+layout: article
 title: 当得知你的妻子怀孕时
 modified:
 categories: articles
 excerpt:
+author: quxiaofeng
 tags: [流程, 产前检查]
 image:
   feature:
   teaser:
   thumb:
+ads: true
+toc: true
 ---
 
 首先要惊喜。

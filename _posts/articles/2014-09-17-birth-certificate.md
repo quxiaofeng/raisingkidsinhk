@@ -1,14 +1,17 @@
 ---
-layout: post
+layout: article
 title: 新生儿证件办理
 modified:
 categories: articles
 excerpt:
+author: quxiaofeng
 tags: [流程, 婴儿期]
 image:
   feature:
   teaser:
   thumb:
+ads: true
+toc: true
 ---
 
 首先要惊喜。
