@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: homepage-baby-1024x500.jpg
 ---
 
 <div class="tiles">
