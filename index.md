@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: Hong_Kong_Night_Skyline.jpg
+  feature: hong-kong-night-skyline-4600x1300.jpg
 ---
 
 <div class="tiles">
