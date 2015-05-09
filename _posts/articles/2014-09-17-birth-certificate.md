@@ -10,7 +10,7 @@ image:
   feature:
   teaser:
   thumb:
-ads: true
+ads: false
 toc: true
 ---
 

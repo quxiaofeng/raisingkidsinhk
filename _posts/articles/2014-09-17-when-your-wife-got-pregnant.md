@@ -11,7 +11,7 @@ image:
   teaser:
   thumb:
 toc: true
-ads: true
+ads: false
 ---
 
 首先要惊喜
