@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: homepage-baby-1024x500.jpg
+  feature: Hong_Kong_Night_Skyline.jpg
 ---
 
 <div class="tiles">
