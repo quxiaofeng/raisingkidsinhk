@@ -5,7 +5,7 @@ description: "A tutorial site for parents"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: zh_CN
-url: www.raisingkidsinhk.tk
+url: //www.raisingkidsinhk.tk
 
 # Jekyll configuration
 
@@ -25,12 +25,12 @@ owner:
   web: http://www.quxiaofeng.me
   email: quxiaofeng@live.com
   twitter: quxiaofeng
-  bio: "Just another Computing Ph.D.."
+  bio: "Just another Computing Ph.D Candidate."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: 
-    ad-client: 
-    ad-slot: 
+    plus:
+    ad-client:
+    ad-slot:
   disqus-shortname:
 
 
