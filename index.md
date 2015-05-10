@@ -6,7 +6,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.articles.posts %}
+{% for post in site.categories.articles %}
     {% include posts-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->
